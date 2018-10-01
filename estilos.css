@@ -3,8 +3,7 @@
 	padding:0;
 }
  
-/*EN EL VIDEO HAY UN ERROR POR EL CUAL NO SE VISUALIZA EN GOOGLE CHROME,
-EL CÓDIGO A CONTINUACIÓN YA ESTA CORREGIDO*/
+
  
 header {
 	margin-top:10px;
@@ -30,7 +29,7 @@ nav ul {
  
 nav > ul {
 	display:table;
-	/*Quitamos el overflow hidden que estaba aqui*/
+	
 	width:100%;
 	background:#000;
 	position:relative;
